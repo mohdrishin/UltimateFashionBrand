@@ -75,3 +75,9 @@ nav ul li a{
     width: 40px;
     margin-right: 25px;
 }
+.feature-img{
+    position: absolute;
+    bottom: 0;
+    height: 90%;
+    right: 160px;
+}
